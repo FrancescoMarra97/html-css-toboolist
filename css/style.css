@@ -4,6 +4,7 @@ h1{
     font-size: 30px ;
 }
  main {
+    margin:0px;
     display: inline-block;
     width: 1170px;
     margin-left: 0px;
@@ -12,7 +13,7 @@ h1{
     left: -9px;
     top: 257px; 
     padding: 10px;
-    border: 50px solid #f6f8f9;
+    border: 70px solid #f6f8f9;
     border-right: 250px solid #f6f8f9;
   }
   /* buttons */
