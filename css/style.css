@@ -3,16 +3,17 @@ h1{
     vertical-align: 30%;
     font-size: 30px ;
 }
-
-
  main {
     display: inline-block;
-    margin-left: 171px;
-    margin-right: 1110px;
-    height:528px;
     width: 1170px;
+    margin-left: 0px;
+    margin-right:0%;
+    height: 620px;
     left: -9px;
-    top: 257px;
+    top: 257px; 
+    padding: 10px;
+    border: 50px solid #f6f8f9;
+    border-right: 250px solid #f6f8f9;
   }
   /* buttons */
 .btt1{
@@ -42,42 +43,39 @@ h1{
     border-color: red;
 }
 .att1{
-    display: inline-block;
     background-color: #47adf1;
     color: #ffffff;
     border-radius: 10%;
     font-size: small;
 }
 .att2{
-    display: inline-block;
     background-color: rgb(194, 42, 194);
     color: #ffffff;
     border-radius: 10%;
     font-size: small;
 }
 .att3{
-    display: inline-block;
     background-color:rgb(1, 135, 95);
     color: #ffffff;
     border-radius: 10%;
     font-size: small;
 }
 .att4{
-    display: inline-block;
+    
     background-color: rgb(255, 165, 55);
     color: #ffffff;
     border-radius: 10%;
     font-size: small;
 }
 .att5{
-    display: inline-block;
+    
     background-color:rgb(245, 4, 129);
     color: #ffffff;
     border-radius: 10%;
     font-size: small;
 }
 .att6{
-    display: inline-block;
+    
     background-color:rgb(97, 255, 88);
     color: #ffffff;
     border-radius: 10%;
