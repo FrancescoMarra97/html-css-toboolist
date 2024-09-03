@@ -13,6 +13,19 @@ h1{
     left: -9px;
     top: 257px;
   }
-  
+  /* buttons */
+.btt1{
+    background-color: #47adf1;
+    color: #ffffff;
+    border-radius: 10%;
+    border-color:#47adf1;
 
-    
+}
+
+.btt2{
+    background-color:#ffffff;
+    color: rgb(203, 203, 203);
+    border-radius: 10%;
+    border-color: rgb(203, 203, 203);
+
+}
