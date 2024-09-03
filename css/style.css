@@ -34,13 +34,16 @@ h1{
 .check{
     background-color: white;
     color: lightgreen;
-    border-color: lightgreen;
+    border:2px solid lightgreen;
+    border-radius: 50%;
+    
 }
 
 .ncheck{
     background-color: white;
     color: red;
-    border-color: red;
+    border:2px solid red;
+    border-radius: 50%;
 }
 .att1{
     background-color: #47adf1;
