@@ -8,9 +8,9 @@ h1{
  main {
     display: inline-block;
     margin-left: 171px;
-    margin-right: 171px;
+    margin-right: 1110px;
     height:528px;
-    width: 170px;
+    width: 1170px;
     left: -9px;
     top: 257px;
   }
@@ -46,34 +46,40 @@ h1{
     background-color: #47adf1;
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
 .att2{
     display: inline-block;
     background-color: rgb(194, 42, 194);
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
 .att3{
     display: inline-block;
     background-color:rgb(1, 135, 95);
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
 .att4{
     display: inline-block;
     background-color: rgb(255, 165, 55);
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
 .att5{
     display: inline-block;
     background-color:rgb(245, 4, 129);
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
 .att6{
     display: inline-block;
     background-color:rgb(97, 255, 88);
     color: #ffffff;
     border-radius: 10%;
+    font-size: small;
 }
