@@ -3,6 +3,9 @@ h1{
     vertical-align: 30%;
     font-size: 30px ;
 }
+.buttons{
+    border-bottom:2px solid #f6f8f9;
+}
  main {
     margin:0px;
     display: inline-block;
